@@ -1,0 +1,215 @@
+{
+  "category_post_count": 10,
+  "html_checks": [
+    {
+      "id": 1524,
+      "slug": "uugguu-the-omniplasm",
+      "url": "https://toracles.com/uugguu-the-omniplasm/",
+      "status": 200,
+      "has_portada_text_raw": true,
+      "has_pingback_text_raw": false,
+      "deckbox_fix_css": true,
+      "deckbox_links": 65
+    },
+    {
+      "id": 1421,
+      "slug": "aminatou-veil-piercer-comandante-esper-encantamientos",
+      "url": "https://toracles.com/aminatou-veil-piercer-comandante-esper-encantamientos/",
+      "status": 200,
+      "has_portada_text_raw": true,
+      "has_pingback_text_raw": false,
+      "deckbox_fix_css": true,
+      "deckbox_links": 79
+    },
+    {
+      "id": 1350,
+      "slug": "zurtheenchanter",
+      "url": "https://toracles.com/zurtheenchanter/",
+      "status": 200,
+      "has_portada_text_raw": true,
+      "has_pingback_text_raw": false,
+      "deckbox_fix_css": true,
+      "deckbox_links": 17
+    },
+    {
+      "id": 1331,
+      "slug": "najeela-la-flor-filosa",
+      "url": "https://toracles.com/najeela-la-flor-filosa/",
+      "status": 200,
+      "has_portada_text_raw": true,
+      "has_pingback_text_raw": false,
+      "deckbox_fix_css": true,
+      "deckbox_links": 1
+    },
+    {
+      "id": 1277,
+      "slug": "los-mejores-commander-atraxa-voz-de-los-magistrados",
+      "url": "https://toracles.com/los-mejores-commander-atraxa-voz-de-los-magistrados/",
+      "status": 200,
+      "has_portada_text_raw": true,
+      "has_pingback_text_raw": false,
+      "deckbox_fix_css": true,
+      "deckbox_links": 2
+    },
+    {
+      "id": 1216,
+      "slug": "los-mejores-commander-yuriko-la-sombra-del-tigre",
+      "url": "https://toracles.com/los-mejores-commander-yuriko-la-sombra-del-tigre/",
+      "status": 200,
+      "has_portada_text_raw": true,
+      "has_pingback_text_raw": false,
+      "deckbox_fix_css": true,
+      "deckbox_links": 22
+    },
+    {
+      "id": 979,
+      "slug": "los-mejores-commander-lanza-una-moneda-o-cien",
+      "url": "https://toracles.com/los-mejores-commander-lanza-una-moneda-o-cien/",
+      "status": 200,
+      "has_portada_text_raw": true,
+      "has_pingback_text_raw": false,
+      "deckbox_fix_css": true,
+      "deckbox_links": 4
+    },
+    {
+      "id": 883,
+      "slug": "los-mejores-commander-un-dragon-que-lo-devora-todo",
+      "url": "https://toracles.com/los-mejores-commander-un-dragon-que-lo-devora-todo/",
+      "status": 200,
+      "has_portada_text_raw": true,
+      "has_pingback_text_raw": false,
+      "deckbox_fix_css": true,
+      "deckbox_links": 3
+    },
+    {
+      "id": 646,
+      "slug": "la-rana-da-mucho-miedo",
+      "url": "https://toracles.com/la-rana-da-mucho-miedo/",
+      "status": 200,
+      "has_portada_text_raw": true,
+      "has_pingback_text_raw": false,
+      "deckbox_fix_css": true,
+      "deckbox_links": 1
+    },
+    {
+      "id": 434,
+      "slug": "senor-zombie-del-caos-senor-de-las-ruedas",
+      "url": "https://toracles.com/senor-zombie-del-caos-senor-de-las-ruedas/",
+      "status": 200,
+      "has_portada_text_raw": true,
+      "has_pingback_text_raw": false,
+      "deckbox_fix_css": true,
+      "deckbox_links": 17
+    }
+  ],
+  "hover_checks": [
+    {
+      "id": 1524,
+      "slug": "uugguu-the-omniplasm",
+      "url": "https://toracles.com/uugguu-the-omniplasm/",
+      "has_portada_visible": false,
+      "has_pingback_visible": false,
+      "links": 65,
+      "tooltip": {
+        "exists": true,
+        "cls": "deckbox_i_tooltip image",
+        "top": 397.328125,
+        "left": 479,
+        "width": 222,
+        "height": 299,
+        "opacity": "1",
+        "display": "block",
+        "visibility": "visible",
+        "in_viewport": true
+      }
+    },
+    {
+      "id": 1421,
+      "slug": "aminatou-veil-piercer-comandante-esper-encantamientos",
+      "url": "https://toracles.com/aminatou-veil-piercer-comandante-esper-encantamientos/",
+      "has_portada_visible": false,
+      "has_pingback_visible": false,
+      "links": 79,
+      "tooltip": {
+        "exists": true,
+        "cls": "deckbox_i_tooltip image",
+        "top": 372.328125,
+        "left": 689,
+        "width": 244.46875,
+        "height": 332,
+        "opacity": "1",
+        "display": "block",
+        "visibility": "visible",
+        "in_viewport": true
+      }
+    },
+    {
+      "id": 1350,
+      "slug": "zurtheenchanter",
+      "url": "https://toracles.com/zurtheenchanter/",
+      "has_portada_visible": false,
+      "has_pingback_visible": false,
+      "links": 17,
+      "tooltip": {
+        "exists": true,
+        "cls": "deckbox_i_tooltip image",
+        "top": 387.328125,
+        "left": 396,
+        "width": 244.46875,
+        "height": 332,
+        "opacity": "1",
+        "display": "block",
+        "visibility": "visible",
+        "in_viewport": true
+      }
+    },
+    {
+      "id": 1331,
+      "slug": "najeela-la-flor-filosa",
+      "url": "https://toracles.com/najeela-la-flor-filosa/",
+      "has_portada_visible": false,
+      "has_pingback_visible": false,
+      "links": 1,
+      "tooltip": {
+        "exists": true,
+        "cls": "deckbox_i_tooltip image",
+        "top": 386.328125,
+        "left": 279,
+        "width": 244.5625,
+        "height": 332,
+        "opacity": "1",
+        "display": "block",
+        "visibility": "visible",
+        "in_viewport": true
+      }
+    },
+    {
+      "id": 1277,
+      "slug": "los-mejores-commander-atraxa-voz-de-los-magistrados",
+      "url": "https://toracles.com/los-mejores-commander-atraxa-voz-de-los-magistrados/",
+      "has_portada_visible": false,
+      "has_pingback_visible": false,
+      "links": 2,
+      "tooltip": {
+        "exists": true,
+        "cls": "deckbox_i_tooltip image",
+        "top": 386.328125,
+        "left": 262,
+        "width": 244.46875,
+        "height": 332,
+        "opacity": "1",
+        "display": "block",
+        "visibility": "visible",
+        "in_viewport": true
+      }
+    }
+  ],
+  "raw_portada_count": 10,
+  "raw_pingback_count": 0,
+  "raw_non200_count": 0,
+  "deckbox_posts_count": 10,
+  "hover_visible_ok_count": 5,
+  "hover_checked_count": 5,
+  "visible_portada_count": 0,
+  "visible_pingback_count": 0
+}
